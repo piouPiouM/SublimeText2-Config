@@ -1,5 +1,16 @@
 {
-	"caret_style": "smooth",
-	"color_scheme": "Packages/User/Twilight piouPiouM.tmTheme",
-	"highlight_line": true
+    "caret_style": "smooth",
+    "color_scheme": "Packages/User/Twilight piouPiouM.tmTheme",
+    "font_face": "Monaco",
+    "font_size": 11,
+    "highlight_line": true,
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true,
+    "use_tab_stops": true,
+    "draw_minimap_border": true,
+    "match_brackets_angle": true,
+    "draw_white_space": "all",
+    "trim_trailing_white_space_on_save": true,
+    "fallback_encoding": "UTF-8",
+    "default_line_ending": "unix"
 }
