@@ -1,11 +1,13 @@
 {
-	"schema_version": "1.0",
-	"repositories":
-	[
-		"https://github.com/kuroir/SCSS",
-		"https://github.com/lunixbochs/sublime-syntaxget"
-	],
-	"package_name_map": {
-		"sublime-syntaxget": "SyntaxGet"
-	}
+    "schema_version": "1.0",
+    "repositories":
+    [
+        "https://github.com/kuroir/SCSS",
+        "https://github.com/lunixbochs/sublime-syntaxget",
+        "https://github.com/sentience/ST2-Hyperlink-Helper"
+    ],
+    "package_name_map": {
+        "sublime-syntaxget": "SyntaxGet",
+        "ST2-Hyperlink-Helper": "Hyperlink Helper"
+    }
 }
