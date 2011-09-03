@@ -4,7 +4,8 @@
     [
         "https://github.com/kuroir/SCSS",
         "https://github.com/lunixbochs/sublime-syntaxget",
-        "https://github.com/sentience/ST2-Hyperlink-Helper"
+        "https://github.com/sentience/ST2-Hyperlink-Helper",
+        "https://github.com/paccator/GotoRecent"
     ],
     "package_name_map": {
         "sublime-syntaxget": "SyntaxGet",
