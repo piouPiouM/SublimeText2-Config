@@ -1,0 +1,30 @@
+{
+    // Will sublime.log_commands(True) and output Zen Specific debug info
+    "debug" : false,
+
+    // For those who just want `zen as you type`
+    "disable_completions": false,
+
+    // contextual completions that aren't part of `zen proper`
+    "completions_blacklist": [
+        // "css_selectors",
+        // "css_property_values",
+        // "html_elements_attributes",
+        // "html_attributes_values",
+        // "css_properties"
+    ],
+
+    "my_zen_settings" : {
+        "html": {
+            "abbreviations": {
+                "jq": "<script src='jquery.js' type='javascript'>",
+                "demo": "<div id=\"demo\"></div>"
+            }
+        },
+        "css": {
+            "snippets": {
+                "c": "color:#${1:000000};"
+            }
+        }
+    }
+}

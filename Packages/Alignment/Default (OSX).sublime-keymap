@@ -1,0 +1,4 @@
+[
+	{ "keys": ["super+shift+a"], "command": "alignment" },
+	{ "keys": ["super+ctrl+a"], "command": "alignment" }
+]
