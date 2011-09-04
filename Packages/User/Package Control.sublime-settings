@@ -7,7 +7,6 @@
 	],
 	"repository_channels":
 	[
-		"http://sublime.wbond.net/repositories.json",
 		"https://raw.github.com/piouPiouM/SublimeText2-Config/master/repositories.json"
 	],
 	"schema_version": "1.0"
